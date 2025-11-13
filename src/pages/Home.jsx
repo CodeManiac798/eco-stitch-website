@@ -111,7 +111,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative z-10">
                 <img 
-                  src="/assets/hero-image.jpg" 
+                  src="/src/assets/images/hero-banner.jpg" 
                   alt="Sustainable clothing made from upcycled fabrics"
                   className="w-full h-96 lg:h-[500px] object-cover rounded-card shadow-2xl"
                   loading="eager"

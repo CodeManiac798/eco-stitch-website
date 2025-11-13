@@ -51,11 +51,13 @@ export default function Header() {
             className="flex items-center space-x-2 focus:outline-none focus:ring-2 focus:ring-primary rounded-lg p-1"
             aria-label="Eco-Stitch Home"
           >
-            <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
-              <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M12 2L13.09 8.26L22 9L13.09 9.74L12 16L10.91 9.74L2 9L10.91 8.26L12 2Z"/>
-              </svg>
-            </div>
+            <img 
+              src="/src/assets/images/logo.jpg" 
+              alt="Eco-Stitch Logo" 
+              className={`transition-all duration-300 object-contain ${
+                isScrolled ? 'h-8 w-8' : 'h-12 w-12'
+              }`}
+            />
             <span className={`font-serif font-bold transition-all duration-300 ${
               isScrolled ? 'text-xl' : 'text-2xl'
             } text-primary`}>

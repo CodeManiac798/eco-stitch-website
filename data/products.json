@@ -152,7 +152,7 @@
     },
     {
       "id": "7",
-      "name": "Patchwork Denim Jacket",
+      "name": "Denim Jacket",
       "price": 3499,
       "images": [
         "/src/assets/images/patchwork-jacket-1.jpg",
@@ -204,7 +204,7 @@
     },
     {
       "id": "9",
-      "name": "Artisan Patchwork Tote Bag",
+      "name": "Tote Bag",
       "price": 1899,
       "images": [
         "/src/assets/images/patchwork-tote-1.jpg",
