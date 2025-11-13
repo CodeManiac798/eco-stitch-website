@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Upcycled Denim Jacket",
+      "price": 1200,
+      "images": [
+        "/assets/product-1.jpg",
+        "/assets/product-1-alt.jpg"
+      ],
+      "category": "jackets",
+      "fabric_details": {
+        "primary_fabric": "Upcycled denim from textile waste",
+        "secondary_fabric": "Organic cotton lining",
+        "care": "Machine wash cold, air dry"
+      },
+      "sustainability_facts": [
+        "Made from 100% upcycled materials",
+        "Biodegradable cotton thread used",
+        "Zero new water consumption in production",
+        "Supports 2 rural artisan families"
+      ],
+      "stock": 15,
+      "tags": ["bestseller", "customizable", "unisex"],
+      "description": "Hand-stitched from leftover denim scraps, this jacket combines durability with style. Each piece is unique and comes with reusable packaging plus a complimentary handkerchief.",
+      "customization_options": ["Embroidered initials", "Patch placement", "Button style"]
+    },
+    {
+      "id": "2", 
+      "name": "Cotton Blend Kurta",
+      "price": 800,
+      "images": [
+        "/assets/product-2.jpg",
+        "/assets/product-2-alt.jpg"
+      ],
+      "category": "traditional",
+      "fabric_details": {
+        "primary_fabric": "Upcycled cotton-polyester blend",
+        "secondary_fabric": "Handwoven trim details",
+        "care": "Gentle machine wash, low heat dry"
+      },
+      "sustainability_facts": [
+        "Diverts 0.8kg fabric waste from landfills",
+        "Natural dyes from local plants",
+        "Employs 3 women in rural communities",
+        "Packaging made from recycled cardboard"
+      ],
+      "stock": 22,
+      "tags": ["traditional", "comfortable", "eco-dyed"],
+      "description": "Traditional comfort meets sustainable fashion. This kurta is crafted from surplus textile mills and dyed using natural, plant-based colors.",
+      "customization_options": ["Size adjustment", "Sleeve length", "Neckline style"]
+    },
+    {
+      "id": "3",
+      "name": "Patchwork Tote Bag", 
+      "price": 450,
+      "images": [
+        "/assets/product-3.jpg",
+        "/assets/product-3-alt.jpg"
+      ],
+      "category": "accessories",
+      "fabric_details": {
+        "primary_fabric": "Mixed fabric scraps (cotton, linen, canvas)",
+        "secondary_fabric": "Reinforced handles with organic cotton webbing",
+        "care": "Spot clean or gentle hand wash"
+      },
+      "sustainability_facts": [
+        "Uses 15-20 different fabric scraps per bag",
+        "Prevents 0.3kg textile waste",
+        "Durable design for 5+ years of use",
+        "Comes with repair kit and instructions"
+      ],
+      "stock": 30,
+      "tags": ["accessories", "durable", "patchwork"],
+      "description": "Every tote tells a story through its unique patchwork design. Strong enough for daily use, beautiful enough to be your statement piece.",
+      "customization_options": ["Handle color", "Internal pocket", "Monogram patch"]
+    },
+    {
+      "id": "4",
+      "name": "Recycled Wool Scarf",
+      "price": 650,
+      "images": [
+        "/assets/product-4.jpg", 
+        "/assets/product-4-alt.jpg"
+      ],
+      "category": "accessories",
+      "fabric_details": {
+        "primary_fabric": "Reclaimed wool from sweater unraveling",
+        "secondary_fabric": "Organic cotton blend border",
+        "care": "Dry clean only"
+      },
+      "sustainability_facts": [
+        "Saves old woolen garments from disposal",
+        "Hand-spun and hand-woven process", 
+        "Supports traditional craftsmanship",
+        "Carbon footprint 70% lower than new wool"
+      ],
+      "stock": 18,
+      "tags": ["winter", "handwoven", "premium"],
+      "description": "Luxuriously soft scarves created by unraveling and re-spinning discarded woolen garments. Each piece carries warmth and history.",
+      "customization_options": ["Length", "Fringe style", "Color combination"]
+    },
+    {
+      "id": "5",
+      "name": "Sustainable School Uniform Set",
+      "price": 950,
+      "images": [
+        "/assets/product-5.jpg",
+        "/assets/product-5-alt.jpg"
+      ],
+      "category": "students",
+      "fabric_details": {
+        "primary_fabric": "Upcycled poly-cotton uniform fabric",
+        "secondary_fabric": "Reinforced cotton at stress points", 
+        "care": "Regular machine wash, medium heat dry"
+      },
+      "sustainability_facts": [
+        "Made from surplus school uniform fabric",
+        "Grows with child - adjustable hems and waists",
+        "Expected lifespan: 2-3 school years",
+        "Includes repair patches and instructions"
+      ],
+      "stock": 25,
+      "tags": ["students", "durable", "adjustable"],
+      "description": "Affordable, durable school uniforms that grow with your child. Made from surplus uniform fabrics, perfect for budget-conscious families.",
+      "customization_options": ["School badge placement", "Name tags", "Size adjustments"]
+    },
+    {
+      "id": "6",
+      "name": "Corporate Gift Box Set",
+      "price": 1500,
+      "images": [
+        "/assets/product-6.jpg",
+        "/assets/product-6-alt.jpg"
+      ],
+      "category": "corporate",
+      "fabric_details": {
+        "primary_fabric": "Premium upcycled cotton and linen blend",
+        "secondary_fabric": "Silk-screened company logos",
+        "care": "Professional cleaning recommended"
+      },
+      "sustainability_facts": [
+        "Each set prevents 1.2kg fabric waste",
+        "Reusable packaging becomes storage box",
+        "Handwritten thank-you notes included",
+        "Supports 5 artisan families per order"
+      ],
+      "stock": 12,
+      "tags": ["corporate", "premium", "gift-ready"],
+      "description": "Thoughtfully curated gift sets perfect for corporate gifting. Includes custom shirt, tote bag, and accessories in beautiful reusable packaging.",
+      "customization_options": ["Company logo", "Color scheme", "Package contents"]
+    }
+  ]
+}
