@@ -5,8 +5,8 @@
       "name": "Upcycled Denim Jacket",
       "price": 1200,
       "images": [
-        "/assets/product-1.jpg",
-        "/assets/product-1-alt.jpg"
+        "/src/assets/images/product-1.jpg",
+        "/src/assets/images/product-1.jpg"
       ],
       "category": "jackets",
       "fabric_details": {
@@ -30,8 +30,8 @@
       "name": "Cotton Blend Kurta",
       "price": 800,
       "images": [
-        "/assets/product-2.jpg",
-        "/assets/product-2-alt.jpg"
+        "/src/assets/images/product-2.jpg",
+        "/src/assets/images/product-2.jpg"
       ],
       "category": "traditional",
       "fabric_details": {
@@ -155,8 +155,8 @@
       "name": "Patchwork Denim Jacket",
       "price": 3499,
       "images": [
-        "/src/assets/images/patchwork-jacket-1.svg",
-        "/src/assets/images/patchwork-jacket-1.svg"
+        "/src/assets/images/patchwork-jacket-1.jpg",
+        "/src/assets/images/patchwork-jacket-1.jpg"
       ],
       "category": "outerwear",
       "fabric_details": {
@@ -207,8 +207,8 @@
       "name": "Artisan Patchwork Tote Bag",
       "price": 1899,
       "images": [
-        "/src/assets/images/patchwork-tote-1.svg",
-        "/src/assets/images/patchwork-tote-1.svg"
+        "/src/assets/images/patchwork-tote-1.jpg",
+        "/src/assets/images/patchwork-tote-1.jpg"
       ],
       "category": "accessories",
       "fabric_details": {
