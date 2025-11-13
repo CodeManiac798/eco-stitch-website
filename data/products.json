@@ -155,8 +155,8 @@
       "name": "Patchwork Denim Jacket",
       "price": 3499,
       "images": [
-        "https://i.imgur.com/patchwork-jacket-1.jpg",
-        "https://i.imgur.com/patchwork-jacket-2.jpg"
+        "/src/assets/images/patchwork-jacket-1.svg",
+        "/src/assets/images/patchwork-jacket-1.svg"
       ],
       "category": "outerwear",
       "fabric_details": {
@@ -181,8 +181,8 @@
       "name": "Bohemian Patchwork Tunic",
       "price": 2799,
       "images": [
-        "https://i.imgur.com/boho-tunic-1.jpg",
-        "https://i.imgur.com/boho-tunic-2.jpg"
+        "/src/assets/images/boho-tunic-1.svg",
+        "/src/assets/images/boho-tunic-1.svg"
       ],
       "category": "clothing",
       "fabric_details": {
@@ -207,8 +207,8 @@
       "name": "Artisan Patchwork Tote Bag",
       "price": 1899,
       "images": [
-        "https://i.imgur.com/patchwork-tote-1.jpg",
-        "https://i.imgur.com/patchwork-tote-2.jpg"
+        "/src/assets/images/patchwork-tote-1.svg",
+        "/src/assets/images/patchwork-tote-1.svg"
       ],
       "category": "accessories",
       "fabric_details": {

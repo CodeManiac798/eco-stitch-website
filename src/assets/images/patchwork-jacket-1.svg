@@ -1,0 +1,67 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="patchwork" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="25" height="25" fill="#8B4513"/>
+      <rect x="25" y="0" width="25" height="25" fill="#4169E1"/>
+      <rect x="0" y="25" width="25" height="25" fill="#DC143C"/>
+      <rect x="25" y="25" width="25" height="25" fill="#FFD700"/>
+    </pattern>
+    <pattern id="denim" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="20" height="20" fill="#4682B4"/>
+      <circle cx="10" cy="10" r="1" fill="#B0C4DE"/>
+    </pattern>
+  </defs>
+  
+  <!-- Denim base -->
+  <rect x="0" y="0" width="400" height="400" fill="url(#denim)"/>
+  
+  <!-- Jacket outline -->
+  <path d="M100 80 L120 60 L280 60 L300 80 L320 100 L320 350 L300 370 L100 370 L80 350 L80 100 Z" 
+        fill="#36648B" stroke="#2F4F4F" stroke-width="3"/>
+  
+  <!-- Patchwork back panel -->
+  <rect x="130" y="120" width="140" height="180" fill="url(#patchwork)"/>
+  
+  <!-- Individual patches with vibrant colors -->
+  <rect x="135" y="125" width="30" height="30" fill="#FF1493" stroke="#8B4513" stroke-width="1"/>
+  <rect x="170" y="125" width="30" height="30" fill="#FFD700" stroke="#8B4513" stroke-width="1"/>
+  <rect x="205" y="125" width="30" height="30" fill="#32CD32" stroke="#8B4513" stroke-width="1"/>
+  <rect x="240" y="125" width="25" height="30" fill="#FF4500" stroke="#8B4513" stroke-width="1"/>
+  
+  <rect x="135" y="160" width="30" height="35" fill="#9932CC" stroke="#8B4513" stroke-width="1"/>
+  <rect x="170" y="160" width="30" height="35" fill="#FF69B4" stroke="#8B4513" stroke-width="1"/>
+  <rect x="205" y="160" width="30" height="35" fill="#00CED1" stroke="#8B4513" stroke-width="1"/>
+  <rect x="240" y="160" width="25" height="35" fill="#FFA500" stroke="#8B4513" stroke-width="1"/>
+  
+  <rect x="135" y="200" width="30" height="30" fill="#FF6347" stroke="#8B4513" stroke-width="1"/>
+  <rect x="170" y="200" width="30" height="30" fill="#98FB98" stroke="#8B4513" stroke-width="1"/>
+  <rect x="205" y="200" width="30" height="30" fill="#DDA0DD" stroke="#8B4513" stroke-width="1"/>
+  <rect x="240" y="200" width="25" height="30" fill="#20B2AA" stroke="#8B4513" stroke-width="1"/>
+  
+  <rect x="135" y="235" width="30" height="35" fill="#F0E68C" stroke="#8B4513" stroke-width="1"/>
+  <rect x="170" y="235" width="30" height="35" fill="#FF7F50" stroke="#8B4513" stroke-width="1"/>
+  <rect x="205" y="235" width="30" height="35" fill="#DA70D6" stroke="#8B4513" stroke-width="1"/>
+  <rect x="240" y="235" width="25" height="35" fill="#40E0D0" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Decorative coins/mirrors -->
+  <circle cx="150" cy="115" r="3" fill="#FFD700" stroke="#B8860B" stroke-width="1"/>
+  <circle cx="180" cy="115" r="3" fill="#C0C0C0" stroke="#A9A9A9" stroke-width="1"/>
+  <circle cx="210" cy="115" r="3" fill="#FFD700" stroke="#B8860B" stroke-width="1"/>
+  <circle cx="240" cy="115" r="3" fill="#C0C0C0" stroke="#A9A9A9" stroke-width="1"/>
+  
+  <!-- Embroidery details -->
+  <path d="M145 140 Q150 135 155 140 Q150 145 145 140" fill="#FF1493"/>
+  <path d="M175 175 Q185 165 195 175 Q185 185 175 175" fill="#FFD700"/>
+  <path d="M215 210 Q220 205 225 210 Q220 215 215 210" fill="#32CD32"/>
+  
+  <!-- Jacket collar and details -->
+  <path d="M130 80 L140 70 L260 70 L270 80 L250 90 L150 90 Z" fill="#36648B"/>
+  
+  <!-- Side panels -->
+  <rect x="85" y="100" width="40" height="250" fill="#4682B4"/>
+  <rect x="275" y="100" width="40" height="250" fill="#4682B4"/>
+  
+  <!-- Sleeves -->
+  <ellipse cx="60" cy="180" rx="25" ry="80" fill="#36648B"/>
+  <ellipse cx="340" cy="180" rx="25" ry="80" fill="#36648B"/>
+</svg>
