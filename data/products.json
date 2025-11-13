@@ -149,6 +149,84 @@
       "tags": ["corporate", "premium", "gift-ready"],
       "description": "Thoughtfully curated gift sets perfect for corporate gifting. Includes custom shirt, tote bag, and accessories in beautiful reusable packaging.",
       "customization_options": ["Company logo", "Color scheme", "Package contents"]
+    },
+    {
+      "id": "7",
+      "name": "Patchwork Denim Jacket",
+      "price": 3499,
+      "images": [
+        "https://i.imgur.com/patchwork-jacket-1.jpg",
+        "https://i.imgur.com/patchwork-jacket-2.jpg"
+      ],
+      "category": "outerwear",
+      "fabric_details": {
+        "primary_fabric": "Upcycled denim with vintage fabric patches",
+        "secondary_fabric": "Hand-embroidered traditional motifs",
+        "care": "Hand wash cold, air dry to preserve embroidery"
+      },
+      "sustainability_facts": [
+        "Made from 100% upcycled materials",
+        "Each patch sourced from vintage textiles",
+        "Supports traditional embroidery artisans",
+        "Zero waste production process",
+        "Saves 2000L of water per jacket"
+      ],
+      "stock": 8,
+      "tags": ["upcycled", "unique", "handcrafted", "featured"],
+      "description": "Handcrafted upcycled denim jacket featuring vibrant patchwork design with traditional embroidery and coin detailing. Each piece is unique and tells a story of sustainable fashion.",
+      "customization_options": ["Size selection", "Patch style preference", "Embroidery color"]
+    },
+    {
+      "id": "8",
+      "name": "Bohemian Patchwork Tunic",
+      "price": 2799,
+      "images": [
+        "https://i.imgur.com/boho-tunic-1.jpg",
+        "https://i.imgur.com/boho-tunic-2.jpg"
+      ],
+      "category": "clothing",
+      "fabric_details": {
+        "primary_fabric": "Mixed vintage cotton and linen patches",
+        "secondary_fabric": "Hand-embroidered details",
+        "care": "Gentle machine wash, line dry"
+      },
+      "sustainability_facts": [
+        "Created from textile waste and vintage fabrics",
+        "Hand-embroidered traditional motifs",
+        "Supports women's employment initiatives",
+        "Chemical-free natural dyes used",
+        "Biodegradable materials only"
+      ],
+      "stock": 15,
+      "tags": ["bohemian", "comfortable", "featured", "handmade"],
+      "description": "Flowing bohemian tunic crafted from vintage fabric patches in beautiful earthy tones. Features intricate embroidery and comfortable loose fit perfect for any occasion.",
+      "customization_options": ["Size selection", "Dominant color palette", "Embroidery style"]
+    },
+    {
+      "id": "9",
+      "name": "Artisan Patchwork Tote Bag",
+      "price": 1899,
+      "images": [
+        "https://i.imgur.com/patchwork-tote-1.jpg",
+        "https://i.imgur.com/patchwork-tote-2.jpg"
+      ],
+      "category": "accessories",
+      "fabric_details": {
+        "primary_fabric": "Upcycled cotton fabric patches",
+        "secondary_fabric": "Floral appliqués and pompom details",
+        "care": "Hand wash cold, air dry"
+      },
+      "sustainability_facts": [
+        "Made from 100% upcycled fabric scraps",
+        "Hand-stitched with traditional techniques",
+        "Supports rural women's livelihoods",
+        "Zero plastic components",
+        "Completely biodegradable"
+      ],
+      "stock": 22,
+      "tags": ["colorful", "practical", "eco-friendly", "handmade"],
+      "description": "Charming handcrafted tote bag featuring colorful patchwork design with floral appliqués and decorative pompoms. Perfect for daily use or as a statement accessory.",
+      "customization_options": ["Pattern style", "Handle length", "Pompom colors"]
     }
   ]
 }

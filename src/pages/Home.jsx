@@ -131,11 +131,18 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-serif font-bold text-text mb-4">
-              Featured Products
+              Handcrafted Upcycled Fashion
             </h2>
             <p className="text-xl text-text/70 max-w-2xl mx-auto">
-              Hand-stitched, customizable pieces that include reusable packaging and a free handkerchief with every order.
+              Each piece is uniquely crafted from upcycled materials by traditional artisans, 
+              turning textile waste into treasured fashion with intricate patchwork and embroidery.
             </p>
+            <div className="flex justify-center mt-6">
+              <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-2 rounded-full text-sm font-medium">
+                <span>🌟</span>
+                <span>100% Upcycled • Zero Waste • Artisan Made</span>
+              </div>
+            </div>
           </div>
 
           {featuredProducts.length > 0 && (
